@@ -3,7 +3,7 @@ title: Introduction to Journalism
 share: https://docs.google.com/open?id=10Vo11_WlTlTm1zpfc7JodqkTn66XJkQrkWjtGIHqJBg
 layout: post
 permalink: /journalism-intro/
-weight: 1
+weight: 9
 source-id: 10Vo11_WlTlTm1zpfc7JodqkTn66XJkQrkWjtGIHqJBg
 published: true
 ---

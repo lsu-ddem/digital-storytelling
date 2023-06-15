@@ -3,7 +3,7 @@ title: Portfolio/Final Project
 share: https://docs.google.com/open?id=1In9WcPGyDuLl3QWvGbRRdmdOK3n5nzG52LEwpHdDiZY
 layout: http://digital-storytelling.lsupathways.org
 permalink: /portfolio/final-project/
-weight: 1
+weight: 11
 source-id: 1In9WcPGyDuLl3QWvGbRRdmdOK3n5nzG52LEwpHdDiZY
 published: true
 ---

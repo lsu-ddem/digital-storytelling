@@ -3,7 +3,7 @@ title: Photojournalism
 share: https://docs.google.com/open?id=1ijLL3UcSV2rtenO9aRn7I_elcMoXHQq65mvNpQG37RY
 layout: post
 permalink: /photo-journalism/
-weight: 2
+weight: 10
 source-id: 1ijLL3UcSV2rtenO9aRn7I_elcMoXHQq65mvNpQG37RY
 published: true
 ---

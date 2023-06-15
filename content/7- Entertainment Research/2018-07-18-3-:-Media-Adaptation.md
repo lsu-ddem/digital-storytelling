@@ -3,7 +3,7 @@ title: Media Adaptation
 share: https://docs.google.com/open?id=1lG5BaahV6UATiwWZZuCvJTRhb039T-9Ta-Fx6t4Qvl0
 layout: http://digital-storytelling.lsupathways.org
 permalink: /3-:-media-adaptation/
-weight: 3
+weight: 12
 source-id: 1lG5BaahV6UATiwWZZuCvJTRhb039T-9Ta-Fx6t4Qvl0
 published: true
 ---

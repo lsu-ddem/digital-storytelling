@@ -3,7 +3,7 @@ title: Journalism and Social Media
 share: https://docs.google.com/open?id=1FHspb766u-bDQC77rr82aHomxzIYwRouwTMpTRE-i88
 layout: http://digital-storytelling.lsupathways.org
 permalink: /journalism-and-social-media/
-weight: 4
+weight: 12
 source-id: 1FHspb766u-bDQC77rr82aHomxzIYwRouwTMpTRE-i88
 published: true
 ---

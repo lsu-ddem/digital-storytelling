@@ -3,7 +3,7 @@ title: Film Continuity
 share: https://docs.google.com/open?id=1qoWu9Zo6BAE2mAfw3DKZpd0gqIzH0t4yoVajoeDp-AY
 layout: http://digital-storytelling.lsupathways.org
 permalink: /1-:-film-continuity/
-weight: 1
+weight: 10
 source-id: 1qoWu9Zo6BAE2mAfw3DKZpd0gqIzH0t4yoVajoeDp-AY
 published: true
 ---

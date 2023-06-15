@@ -3,7 +3,7 @@ title: Design Aspects and Meaning
 share: https://docs.google.com/open?id=1tt_Y5Z1G9pkznjN14_jL2J51JbMUiA9VPt5Fhim1sBQ
 layout: post
 permalink: /5-:-design-aspects-and-meaning/
-weight: 5
+weight: 14
 source-id: 1tt_Y5Z1G9pkznjN14_jL2J51JbMUiA9VPt5Fhim1sBQ
 published: true
 ---

@@ -3,7 +3,7 @@ title: Historic Continuity
 share: https://docs.google.com/open?id=197SBivD-HKP6HpayIM6N9GsZYeG71cHSnSYXISMZErg
 layout: http://digital-storytelling.lsupathways.org
 permalink: /2-:-historic-continuity/
-weight: 2
+weight: 11
 source-id: 197SBivD-HKP6HpayIM6N9GsZYeG71cHSnSYXISMZErg
 published: true
 ---
