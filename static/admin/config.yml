@@ -48,7 +48,7 @@ collections:
   #     - { label: "Order", name: "weight", widget: "number" }
   #     - { label: "Body", name: "body", widget: "markdown" }
   # - name: "Switching Gears"
-  #   label: "witching Gears"
+  #   label: "Wwitching Gears"
   #   folder: "content/1-Imagery/3_Lesson_3"
   #   create: true
   #   fields:
