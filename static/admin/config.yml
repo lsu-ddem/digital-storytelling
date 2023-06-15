@@ -47,7 +47,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Order", name: "weight", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
- - name: "Switching Gears"
+  - name: "Switching Gears"
     label: "witching Gears"
     folder: "content/1-Imagery/3_Lesson_3"
     create: true
@@ -55,7 +55,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Order", name: "weight", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
- - name: "Imagery and Ethicacy"
+  - name: "Imagery and Ethicacy"
     label: "Imagery and Ethicacy"
     folder: "content/1-Imagery/4_Lesson_4"
     create: true
@@ -63,7 +63,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Order", name: "weight", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
- - name: "Imagery Assessment"
+  - name: "Imagery Assessment"
     label: "Imagery Assessment"
     folder: "content/1-Imagery/5_Lesson_5"
     create: true
