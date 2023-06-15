@@ -1,5 +1,5 @@
 /* disabled css, left for per site changes */
-@media  {
+@media DISABLED {
   :root {
     --MAIN-TEXT-color: #323232; /* Color of text by default */
     --MAIN-TITLES-TEXT-color: #5e5e5e; /* Color of titles h2-h3-h4-h5 */

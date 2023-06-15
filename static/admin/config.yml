@@ -6,76 +6,74 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 
 collections:
   # Unit 1
-  - name: "Unit 1 - Lesson 1"
-    label: "Unit 1 - Lesson 1"
-    folder: "content/1_Unit_1/1_Lesson_1"
+  - name: "Imagery"
+    label: "Imagery"
+    folder: "content/1-Imagery"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Order", name: "weight", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Unit 1 - Lesson 2"
-    label: "Unit 1 - Lesson 2"
-    folder: "content/1_Unit_1/2_Lesson_2"
+  - name: "Sonic"
+    label: "Sonic"
+    folder: "content/2-Sonic"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Order", name: "weight", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
 
-  #Projects
-  - name: "Unit 1 - Lesson 2 - Project 1"
-    label: "Unit 1 - Lesson 2 - Project 1"
-    folder: "content/1_Unit_1/2_Lesson_2/1_Project_1"
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Order", name: "weight", widget: "number" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Unit 1 - Lesson 2 - Project 2"
-    label: "Unit 1 - Lesson 2 - Project 2"
-    folder: "content/1_Unit_1/2_Lesson_2/2_Project_2"
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Order", name: "weight", widget: "number" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Unit 1 - Lesson 2 - Project 3"
-    label: "Unit 1 - Lesson 2 - Project 3"
-    folder: "content/1_Unit_1/2_Lesson_2/3_Project_3"
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Order", name: "weight", widget: "number" }
-      - { label: "Body", name: "body", widget: "markdown" }
+  # #Projects
+  # - name: "Unit 1 - Lesson 2 - Project 1"
+  #   label: "Unit 1 - Lesson 2 - Project 1"
+  #   folder: "content/1_Unit_1/2_Lesson_2/1_Project_1"
+  #   create: true
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Order", name: "weight", widget: "number" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "Unit 1 - Lesson 2 - Project 2"
+  #   label: "Unit 1 - Lesson 2 - Project 2"
+  #   folder: "content/1_Unit_1/2_Lesson_2/2_Project_2"
+  #   create: true
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Order", name: "weight", widget: "number" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "Unit 1 - Lesson 2 - Project 3"
+  #   label: "Unit 1 - Lesson 2 - Project 3"
+  #   folder: "content/1_Unit_1/2_Lesson_2/3_Project_3"
+  #   create: true
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Order", name: "weight", widget: "number" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
 
   #Back to lessons
-  - name: "Unit 1 - Lesson 3"
-    label: "Unit 1 - Lesson 3"
-    folder: "content/1_Unit_1/3_Lesson_3"
+  - name: "Video"
+    label: "Video"
+    folder: "content/3-Video"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Order", name: "weight", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
-  #####
-  # Unit 2
-#   - name: "Unit 2 - Lesson 1"
-#     label: "Unit 2 - Lesson 1"
-#     folder: "content/2_Unit_2/1_Lesson_1"
-#     create: true
-#     fields:
-#       - {label: "Title", name: "title", widget: "string"}
-#       - {label: "Order", name: "weight", widget: "number"}
-#       - {label: "Body", name: "body", widget: "markdown"}
-#   - name: "Unit 2 - Lesson 2"
-#     label: "Unit 2 - Lesson 2"
-#     folder: "content/2_Unit_2/2_Lesson_2"
-#     create: true
-#     fields:
-#       - {label: "Title", name: "title", widget: "string"}
-#       - {label: "Order", name: "weight", widget: "number"}
-#       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Game"
+    label: "Game"
+    folder: "content/4-Game"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Digital Literacy"
+    label: "Digital Literacy"
+    folder: "content/5-Digital Literacy"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
 
 #   #Projects
 #   - name: "Unit 2 - Lesson 2 - Project 1"
@@ -95,33 +93,33 @@ collections:
 #       - {label: "Order", name: "weight", widget: "number"}
 #       - {label: "Body", name: "body", widget: "markdown"}
 
-#   #Back to lessons
-#   - name: "Unit 2 - Lesson 3"
-#     label: "Unit 2 - Lesson 3"
-#     folder: "content/2_Unit_2/3_Lesson_3"
-#     create: true
-#     fields:
-#       - {label: "Title", name: "title", widget: "string"}
-#       - {label: "Order", name: "weight", widget: "number"}
-#       - {label: "Body", name: "body", widget: "markdown"}
+  #Back to lessons
+  - name: "Journalism"
+    label: "Journalism"
+    folder: "content/6-Journalism"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
 # ###
-# # Unit 3
-#   - name: "Unit 3 - Lesson 1"
-#     label: "Unit 3 - Lesson 1"
-#     folder: "content/3_Unit_3/1_Lesson_1"
-#     create: true
-#     fields:
-#       - {label: "Title", name: "title", widget: "string"}
-#       - {label: "Order", name: "weight", widget: "number"}
-#       - {label: "Body", name: "body", widget: "markdown"}
-#   - name: "Unit 3 - Lesson 2"
-#     label: "Unit 3 - Lesson 2"
-#     folder: "content/3_Unit_3/2_Lesson_2"
-#     create: true
-#     fields:
-#       - {label: "Title", name: "title", widget: "string"}
-#       - {label: "Order", name: "weight", widget: "number"}
-#       - {label: "Body", name: "body", widget: "markdown"}
+# Unit 3
+  - name: "Entertainment Research"
+    label: "Entertainment Research"
+    folder: "content/7-Entertainment Research"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Final Project"
+    label: "Final Project"
+    folder: "content/8-Final Project"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
 
 #   #Projects
 #   - name: "Unit 3 - Lesson 2 - Project 1"
@@ -157,37 +155,33 @@ collections:
 #       - {label: "Order", name: "weight", widget: "number"}
 #       - {label: "Body", name: "body", widget: "markdown"}
 
-#   #Back to lessons
-#   - name: "Unit 3 - Lesson 3"
-#     label: "Unit 3 - Lesson 3"
-#     folder: "content/3_Unit_3/3_Lesson_3"
-#     create: true
-#     fields:
-#       - {label: "Title", name: "title", widget: "string"}
-#       - {label: "Order", name: "weight", widget: "number"}
-#       - {label: "Body", name: "body", widget: "markdown"}
+  #Back to lessons
+  - name: "Resources"
+    label: "Resources"
+    folder: "content/Resources"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
 
-#   #####
-#   # Unit 4
-#   #
-#   #####
-#   # biological engineering
-#   - name: "Unit 4 - Biological Engineering - Lesson 1"
-#     label: "Unit 4 - Biological Engineering - Lesson 1"
-#     folder: "content/4_Unit_4/biological-engineering/1_Lesson_1"
-#     create: true
-#     fields:
-#       - {label: "Title", name: "title", widget: "string"}
-#       - {label: "Order", name: "weight", widget: "number"}
-#       - {label: "Body", name: "body", widget: "markdown"}
-#   - name: "Unit 4 - Biological Engineering - Lesson 2"
-#     label: "Unit 4 - Biological Engineering - Lesson 2"
-#     folder: "content/4_Unit_4/biological-engineering/2_Lesson_2"
-#     create: true
-#     fields:
-#       - {label: "Title", name: "title", widget: "string"}
-#       - {label: "Order", name: "weight", widget: "number"}
-#       - {label: "Body", name: "body", widget: "markdown"}
+  #####
+  - name: "Semester One"
+    label: "Semester One"
+    folder: "content/Semester One"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Semester Two"
+    label: "Semester Two"
+    folder: "content/Semester Two"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
 
 #   #Projects
 #   - name: "Unit 4 - Biological Engineering - Lesson 2 - Project 1"
@@ -223,15 +217,15 @@ collections:
 #       - {label: "Order", name: "weight", widget: "number"}
 #       - {label: "Body", name: "body", widget: "markdown"}
 
-#   #Back to lessons
-#   - name: "Unit 4 - Biological Engineering - Lesson 3"
-#     label: "Unit 4 - Biological Engineering - Lesson 3"
-#     folder: "content/4_Unit_4/biological-engineering/3_Lesson_3"
-#     create: true
-#     fields:
-#       - {label: "Title", name: "title", widget: "string"}
-#       - {label: "Order", name: "weight", widget: "number"}
-#       - {label: "Body", name: "body", widget: "markdown"}
+  #Back to lessons
+  - name: "Digital Storytelling"
+    label: "Digital Storytelling"
+    folder: "content"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
 
 #   #####
 #   # chemical engineering
