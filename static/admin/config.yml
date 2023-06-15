@@ -31,48 +31,46 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Order", name: "weight", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Introduction to Digital Storytelling"
-    label: "Introduction to Digital Storytelling"
-    folder: "content/1-Imagery/1_Lesson_1"
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Order", name: "weight", widget: "number" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Images and Their Role"
-    label: "Images and Their Role"
-    folder: "content/1-Imagery/2_Lesson_2"
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Order", name: "weight", widget: "number" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Switching Gears"
-    label: "witching Gears"
-    folder: "content/1-Imagery/3_Lesson_3"
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Order", name: "weight", widget: "number" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Imagery and Ethicacy"
-    label: "Imagery and Ethicacy"
-    folder: "content/1-Imagery/4_Lesson_4"
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Order", name: "weight", widget: "number" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Imagery Assessment"
-    label: "Imagery Assessment"
-    folder: "content/1-Imagery/5_Lesson_5"
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Order", name: "weight", widget: "number" }
-      - { label: "Body", name: "body", widget: "markdown" }
-
-
+  # - name: "Introduction to Digital Storytelling"
+  #   label: "Introduction to Digital Storytelling"
+  #   folder: "content/1-Imagery/1_Lesson_1"
+  #   create: true
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Order", name: "weight", widget: "number" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "Images and Their Role"
+  #   label: "Images and Their Role"
+  #   folder: "content/1-Imagery/2_Lesson_2"
+  #   create: true
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Order", name: "weight", widget: "number" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "Switching Gears"
+  #   label: "witching Gears"
+  #   folder: "content/1-Imagery/3_Lesson_3"
+  #   create: true
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Order", name: "weight", widget: "number" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "Imagery and Ethicacy"
+  #   label: "Imagery and Ethicacy"
+  #   folder: "content/1-Imagery/4_Lesson_4"
+  #   create: true
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Order", name: "weight", widget: "number" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "Imagery Assessment"
+  #   label: "Imagery Assessment"
+  #   folder: "content/1-Imagery/5_Lesson_5"
+  #   create: true
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Order", name: "weight", widget: "number" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
 
 
 #Sonic
