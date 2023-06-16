@@ -11,7 +11,7 @@ publishURL = "http://digital-storytelling.lsupathways.org"
 
 [params]
   editURL = "https://digital-storytelling.lsupathways.org/admin"
-  description = "Educational material for Pre-Engineering"
+  description = "Educational material for Digital Storytelling"
   author = "Tate Carson"
   showVisitedLinks = true
   themeVariant = "blue"
