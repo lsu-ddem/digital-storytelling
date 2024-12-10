@@ -1,5 +1,5 @@
 ---
-title: "Semester Two:"
+title: "Digital Citizenship"
 weight: 6
 ---
 

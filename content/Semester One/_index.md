@@ -1,5 +1,5 @@
 ---
-title: "Semester One:"
+title: "Digital Media"
 weight: 1
 ---
 
