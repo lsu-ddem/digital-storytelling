@@ -61,23 +61,23 @@ There are no handouts for this lesson.
 
 -   Develop a strong password that is at least 10 characters and a mixture of characters, numbers, and symbols.
 
-    		-   Along with that, develop a schema for your passwords so you can develop a pattern for your passwords from site to site because using the same password on multiple sites is dangerous.
+	-   Along with that, develop a schema for your passwords so you can develop a pattern for your passwords from site to site because using the same password on multiple sites is dangerous.
 
-    		-   Schema example: important # (not birthday) + word or phrase (incorporate at least one capitalization and symbol into the phrase ) + unique identifier that changes from site to site (the unique identifier (uid) can be in any format)
+	-   Schema example: important # (not birthday) + word or phrase (incorporate at least one capitalization and symbol into the phrase ) + unique identifier that changes from site to site (the unique identifier (uid) can be in any format)
 
-			-   44-3L3ph@nt-g@@gle    
+	-   44-3L3ph@nt-g@@gle    
 
-			-   #-phrase-uid
+		-   #-phrase-uid
 
     
 
-		-   Make sure to vary the schema's order from site to site:    
+	-   Make sure to vary the schema's order from site to site:    
 
-			-   #-phrase-uid
+		-   #-phrase-uid
 
-    			-   phrase-#-uid
+    		-   phrase-#-uid
 
-    			-   uid-#-phrase  
+    		-   uid-#-phrase  
 
 	-   Simple steps to protect yourself and your digital Identity:
 
@@ -93,7 +93,6 @@ There are no handouts for this lesson.
 
 		-   Sometimes someone will first send you a benign email (think of this as the bait) to lure you into a conversation and then follow that up with a phishing email. At other times, the fraudster will just send one phishing email that will direct you to a website requesting you to enter your personal information such as User ID and Password.
 
-    
 
 		-   Pharming is another scam where a person installs malicious code on a personal computer. This code then redirects any clicks you make on a website to another fake Website without your consent or knowledge.
 
