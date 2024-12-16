@@ -25,7 +25,8 @@ published: true
    * Start the class with a fun activity: write a short story inspired by a meme or image displayed by your teacher.
 2. **Prepare Your Tools**
 
-   * Download the comic strip creator app as instructed by your teacher.
+   * Use one of the following tools as instructed by your teacher:
+   *
    * Familiarize yourself with the app’s features to prepare for the project.
 3. **Create Your Comic Strip**
 
