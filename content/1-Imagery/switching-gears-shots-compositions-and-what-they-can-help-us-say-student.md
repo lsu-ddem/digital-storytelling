@@ -25,7 +25,7 @@ weight: 5
    * Start the class with a fun activity: write a brief story inspired by a meme or image shown by your teacher.
 2. **Learn About Composition**
 
-   * Explore examples of composition in photography, paintings, films, and architecture.
+   * Explore examples of composition in photography, paintings, films, and architecture, in this [link](https://nofilmschool.com/2015/09/9-composition-techniques-make-images-eye-catching-biological-level). 
    * Discuss different composition styles, such as rule of thirds, leading lines, symmetry, and framing.
 3. **Build a Portfolio**
 
