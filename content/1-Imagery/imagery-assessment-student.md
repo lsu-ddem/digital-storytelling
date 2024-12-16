@@ -26,7 +26,9 @@ published: true
 2. **Prepare Your Tools**
 
    * Use one of the following tools as instructed by your teacher:
-   *
+
+     * [C﻿anva](https://www.canva.com/create/comic-strips/)
+     *
    * Familiarize yourself with the app’s features to prepare for the project.
 3. **Create Your Comic Strip**
 
