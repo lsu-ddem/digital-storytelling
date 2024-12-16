@@ -28,12 +28,13 @@ published: true
    * Use one of the following tools as instructed by your teacher:
 
      * [C﻿anva](https://www.canva.com/create/comic-strips/)
-     *
-   * Familiarize yourself with the app’s features to prepare for the project.
+     * [M﻿akeBeliefsComix](https://makebeliefscomix.com/)
+     * [P﻿ixton](http://pixton.com)
+   * Familiarize yourself with the tool’s features to prepare for the project.
 3. **Create Your Comic Strip**
 
    * Choose a meaningful topic assigned by your teacher. Reflect on your opinions and ideas about the topic.
-   * Use the comic strip app to create a visually engaging story that includes:
+   * Use the comic strip tool to create a visually engaging story that includes:
 
      * A catchy headline
      * A memorable tagline
