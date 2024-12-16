@@ -41,7 +41,12 @@ If desired, students may be given handouts for feedback during peer review.
 
 #### Project
 
-* After the daily meme the students will choose one of the following comic strip toch student will be assigned a topic to illustrate their opinion about making sure to include a catchy headline and tagline
+* After the daily meme the students will choose one of the following comic strip tools:
+
+  * [C﻿anva](https://www.canva.com/create/comic-strips/)
+  * [M﻿akeBeliefsComix](https://makebeliefscomix.com/)
+  * [P﻿ixton](http://pixton.com)
+* Each student will be assigned a topic to illustrate their opinion about making sure to include a catchy headline and taglines
 * Upon completion of the comic the students will submit their illustrations in for peer review
 * After the files have been reviewed all comic strips will be entered into a comic book for that class and will be archived for later use
 * Make sure peer review has been signed off by more than two peers:
