@@ -25,7 +25,7 @@ published: true
    * Start the class with a fun activity: write a brief story inspired by a meme or image displayed by your teacher.
 2. **Introduction to the Project**
 
-   * Learn about the "Images of Heinous Beginnings" project. You and your group will receive a single image to analyze and build a story around. The image’s true history will not be revealed until later. The following are the links to the images:
+   *  You and your group will receive a single image to analyze and build a story around. The image’s true history will not be revealed until later. The following are the links to the images:
 
      * [I﻿mage 1](https://app.milanote.com/media/p/images/1Q9P751k3n8s80/uUS/1.jpeg?v=2&elementId=1RF2Ze1lN1GbDE)
      * [I﻿mage 2](https://app.milanote.com/media/p/images/1Q9P751k3n8s81/gGf/2.jpeg?v=2&elementId=1RF2Ze1lN1GbCG)
