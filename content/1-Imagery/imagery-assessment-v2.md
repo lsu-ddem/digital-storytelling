@@ -27,7 +27,13 @@ Lesson is expected to last 2 days.
 
 ### Preparing to Teach this Lesson:
 
-* [Comic strip creator app](https://chromebooks.pixton.com/schools/login) that students will download and use to create comic strips.
+* S﻿tudents can use any of the following online tools for comic creation:[](https://chromebooks.pixton.com/schools/login)
+
+  * [C﻿anva](https://www.canva.com/create/comic-strips/)
+  * [M﻿akeBeliefsComix](https://makebeliefscomix.com/)
+  * [P﻿ixton](http://pixton.com)
+
+  [](https://chromebooks.pixton.com/schools/login)
 
 ### Student Handouts:
 
