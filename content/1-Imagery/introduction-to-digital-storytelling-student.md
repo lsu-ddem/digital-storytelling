@@ -65,3 +65,11 @@ Storytelling is everywhere, from movies to social media posts. Understanding how
 * A group story based on an image
 * A reflection on what you learned about your group members
 * A deeper understanding of character roles and storytelling in digital media
+
+**C﻿redits**
+
+Image by <a href="https://pixabay.com/users/tienco85-23293584/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7898501">Tiến Đỗ Mạnh</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7898501">Pixabay</a>
+
+Image by <a href="https://pixabay.com/users/nickbar-1177651/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=951000">Nicolás</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=951000">Pixabay</a>
+
+Images from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=951000">Pixabay</a>
