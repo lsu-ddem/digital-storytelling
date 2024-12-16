@@ -23,13 +23,12 @@ Lesson is expected to last 1-2 days.
 
 #### Interdisciplinary Connection(s) to Common Core
 
--  <a href = "http://www.corestandards.org/ELA-Literacy/W/9-10/3/d/" target="_blank">CCSS.ELA-LITERACY.W.9-10.3.D</a>
-
--  <a href ="http://www.corestandards.org/ELA-Literacy/W/9-10/5/" target="_blank">CCSS.ELA-LITERACY.W.9-10.5</a>
+* <a href = "http://www.corestandards.org/ELA-Literacy/W/9-10/3/d/" target="_blank">CCSS.ELA-LITERACY.W.9-10.3.D</a>
+* <a href ="http://www.corestandards.org/ELA-Literacy/W/9-10/5/" target="_blank">CCSS.ELA-LITERACY.W.9-10.5</a>
 
 ### Preparing to Teach this Lesson:
 
-- [Images](http://www.historyinorbit.com/13-children-who-grew-up-to-be-the-most-evil-humans-in-the-world/) to be used in "Images of Heinous Beginnings" Project.
+* [Images](https://app.milanote.com/1RF2Ze1lN1GbpQ/horrible-baby-pictures?p=uMloD1dFeAE) to be used in "Images of Heinous Beginnings" Project.
 
 ### Student Handouts:
 
@@ -39,105 +38,47 @@ There are no handouts for this lesson as it is project based.
 
 #### Introduction/Gain Attention
 
--  **Daily Meme**: The class will begin with an activity that will require students to write a brief story using an image displayed by the instructor.
+* **Daily Meme**: The class will begin with an activity that will require students to write a brief story using an image displayed by the instructor.
 
 #### Project
 
--   After the daily meme the students will be introduced to the next project, [the images of heinous beginnings](http://www.historyinorbit.com/13-children-who-grew-up-to-be-the-most-evil-humans-in-the-world/).
-
-  
-
--   The students will be split up into groups and each group will receive one image, the history of the image will not be known to the students. The students will have to use deductive reasoning in order to decipher the artifacts within the image and use their narrative reasoning to develop a story around the subject as well as the artifacts in order, developing a likely location of the subject, period of time, etc.
-
-  
-
--   The story should contain all aspects of an essay except for a conclusion.
-
-  
-
--   After the students have completed their essays, the students will share their works with the group.
-
-  
-
--   The students must have a reasonable defense for the usage of their artifacts as well as their story, if not sound, their story is null and void. The students must balance their creativity with reasoning.
-
-  
-
--   Each group will select one representative to share their story with the class.
-
-  
-
--   After each group representative has shared their story the true identity of each individual will be revealed .
-
-  
-
--   After the students have learned of their subjects true identities the students will get an opportunity to develop and implement a plot twist.
-
-  
-
--   As new information arises the students must be willing to adapt their work to the changing ecosystem of their characters.
-
-  
-
--   The plot twist must be relevant to the characters as well as the time period in which they are from.
+* After the daily meme the students will be introduced to the next project, [the images of heinous beginnings](https://app.milanote.com/1RF2Ze1lN1GbpQ/horrible-baby-pictures?p=uMloD1dFeAE).
+* The students will be split up into groups and each group will receive one image, the history of the image will not be known to the students. The students will have to use deductive reasoning in order to decipher the artifacts within the image and use their narrative reasoning to develop a story around the subject as well as the artifacts in order, developing a likely location of the subject, period of time, etc.
+* The story should contain all aspects of an essay except for a conclusion.
+* After the students have completed their essays, the students will share their works with the group.
+* The students must have a reasonable defense for the usage of their artifacts as well as their story, if not sound, their story is null and void. The students must balance their creativity with reasoning.
+* Each group will select one representative to share their story with the class.
+* After each group representative has shared their story the true identity of each individual will be revealed .
+* After the students have learned of their subjects true identities the students will get an opportunity to develop and implement a plot twist.
+* As new information arises the students must be willing to adapt their work to the changing ecosystem of their characters.
+* The plot twist must be relevant to the characters as well as the time period in which they are from.
 
 ### Outcomes:
 
--   Demonstrate ability to arrive at conclusions collaboratively, giving consideration to the ideas and justifications of group members.
-
-  
-
--   Gain deductive reasoning skills by drawing conclusions from a single image.
-
-  
-
--   Improve narrative reasoning skills by forming a unique story incorporating specific qualities.
-
-  
-
--   Analyze different technicalities and possibilities in regards to forming a story from the image and selecting the most logical or fitting of options.
-
-  
-
--   Exhibit creativity in creation of a unique story and expression of fixed details, such as assumed time period or scenario.
+* Demonstrate ability to arrive at conclusions collaboratively, giving consideration to the ideas and justifications of group members.
+* Gain deductive reasoning skills by drawing conclusions from a single image.
+* Improve narrative reasoning skills by forming a unique story incorporating specific qualities.
+* Analyze different technicalities and possibilities in regards to forming a story from the image and selecting the most logical or fitting of options.
+* Exhibit creativity in creation of a unique story and expression of fixed details, such as assumed time period or scenario.
 
 ### Content of Lesson:
 
-- Acquiring Key Concepts: discussion of narrative reasoning, identifying characteristics and context within a single image.
-
-- Engaging in Experiential Learning: identifying characteristics and context of a given image via narrative reasoning and analysis.
-
-- Building Proficiencies: incorporating the characteristics found in the image into the student's unique storyline, and justifying the reasoning behind the characteristics.
-
-- Connecting with STEM Professionals: view a video interview with a director, writer, or historian in which they discuss the concepts focused on in class.
-
-- Assessing Learning: have students individually explain the methods they used to analyze their group's given image. Also allow groups to compare their storyline and steps taken to those of their group members and other groups in class. Ask if students are able to agree with the characteristics other students identified following their given reasoning.
+* Acquiring Key Concepts: discussion of narrative reasoning, identifying characteristics and context within a single image.
+* Engaging in Experiential Learning: identifying characteristics and context of a given image via narrative reasoning and analysis.
+* Building Proficiencies: incorporating the characteristics found in the image into the student's unique storyline, and justifying the reasoning behind the characteristics.
+* Connecting with STEM Professionals: view a video interview with a director, writer, or historian in which they discuss the concepts focused on in class.
+* Assessing Learning: have students individually explain the methods they used to analyze their group's given image. Also allow groups to compare their storyline and steps taken to those of their group members and other groups in class. Ask if students are able to agree with the characteristics other students identified following their given reasoning.
 
 ### Closure and Review
 
-  
-
--   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
-
-  
-
--   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
-
-  
+* Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
+* Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
 
 ## Higher Level Thinking Skills Noted
 
--   Developing a story from artifacts of an image of unknown origin
-
-  
-
--   Adapting stories due to character developments
-
-  
-
--   Perception due to appearance
-
-  
+* Developing a story from artifacts of an image of unknown origin
+* Adapting stories due to character developments
+* Perception due to appearance
 
 ## Relevance/Rationale:
 
@@ -170,4 +111,3 @@ To be completed upon the end of lesson.
 ### Best Practices:
 
 Exemplary Previous student work:
-
