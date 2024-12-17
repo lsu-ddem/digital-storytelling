@@ -31,7 +31,9 @@ published: true
      * Why are storyboards important?
      * How do they save time, clarify ideas, and organize projects?
      * How do storyboards align with composition and imagery rules?
-   * Work with your teacher and classmates to create a collective example of a storyboard. Watch the short silent film *Affinity - 1912* and break it down into individual shots, mapping the storyline visually.
+   * Work with your teacher and classmates to create a collective example of a storyboard. Watch the short silent film *Le Roman de Max (1912)* and break it down into individual shots, mapping the storyline visually.
+
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/5OW72C8XjNo?si=ISctH_ZMBFRGFtiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 3. **Analyze Silent Films**
 
    * Watch two short silent films, *The Lion’s Cage* and *Life*, with the audio muted. Pay attention to:
