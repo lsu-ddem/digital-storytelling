@@ -37,7 +37,7 @@ published: true
 3. **Discuss and Reflect**
 
    * After the podcast, discuss your answers to the essential questions with the class.
-   * Reflect on how listening affects individuals physiologically and how sound can be purposefully manipulated to create specific effects.
+   * Reflect on how listening affects individuals physiologically and how sound can be purposefully manipulated to create specific effects in the audience.
 4. **Connect with Professionals**
 
    * Watch or listen to an interview with a professional (e.g., composer, sound designer, or scientist) discussing the impact of sound on storytelling.
