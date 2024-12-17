@@ -28,10 +28,14 @@ published: true
    * Participate in a quick walkthrough of [Audacity software](https://www.audacityteam.org/). Learn its key features and quirks to prepare for sound manipulation.
 3. **Experiment with Sound**
 
-   * Begin with a provided sound file. Experiment by altering its:
+   * Begin with a provided sound file, such as this one: 
 
-     * Loudness
+     <iframe frameborder="0" scrolling="no" src="https://freesound.org/embed/sound/iframe/348251/simple/large/" width="920" height="245"></iframe>
+
+     Experiment by changing its:
+
      * Pitch
+     * L﻿oudness
      * Quality
      * Timbre
    * Practice duplicating, replicating, and combining tracks to understand the basics of sound editing.
