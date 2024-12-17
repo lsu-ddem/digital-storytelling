@@ -11,6 +11,10 @@ weight: 5
 
 <!--StartFragment-->
 
+![](/images/uploads/photographer-6780689_640.jpg)
+
+Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6780689">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6780689">Pixabay</a>
+
 **What You’ll Learn** In this lesson, you will explore how the composition of an image affects storytelling. You will learn to identify different composition types and understand their impact on the viewer’s emotions and thoughts. By creating your own images and collaborating with your classmates, you’ll see how images can shape and enhance narratives.
 
 **What to Expect**
