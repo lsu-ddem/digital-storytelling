@@ -28,6 +28,8 @@ Lesson is expected to last 1 day.
 ### Preparing to Teach this Lesson:
 
 * [Video about the meaning and purpose of StoryCorps](https://youtu.be/KGCD1XR0WPk) that students can watch to learn the significance of the StoryCorps platform.
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/KGCD1XR0WPk?si=dsX-KBM1LVdYkScg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 * [Extra Guiding/Starter Questions for Interviews](https://docs.google.com/document/d/1jMcyQth9pD17s6nKkgQJIxs1My7M9GnDOtftTZZ0eKs/edit#heading=h.rw8o65icddij)
 * StoryCorps Resources:
 
