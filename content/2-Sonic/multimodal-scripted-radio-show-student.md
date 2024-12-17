@@ -11,6 +11,10 @@ published: true
 
 <!--StartFragment-->
 
+![](/images/uploads/podcast-7876792_640.jpg)
+
+Image by <a href="https://pixabay.com/users/studio_iris-375969/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7876792">Studio_Iris</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7876792">Pixabay</a>
+
 **What You’ll Learn** In this lesson, you will learn how to integrate writing with sound to create a unique and engaging radio show. You will explore audio storytelling techniques, practice using Audacity, and develop skills in writing, timing, and audio production to bring your story to life.
 
 **What to Expect**
