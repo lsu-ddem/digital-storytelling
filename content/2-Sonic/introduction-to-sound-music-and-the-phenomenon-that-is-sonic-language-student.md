@@ -27,6 +27,8 @@ published: true
 2. **Listen and Learn**
 
    * Listen to the Radiolab podcast, *Psyche and Sound*, without any distractions. Electronic devices are not allowed during this activity to help you focus fully on the sound.
+
+     <iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnycstudios/#file=/audio/json/91512/&share=1"></iframe>
    * Use the [Cornell Notes Handout](https://drive.google.com/open?id=1Kyf1MC4igp7Lp1TiMAbRyUKmHjOvdiLVtugP91m6Gf0) to take detailed notes during the podcast. Some questions to consider while listening include:
 
      * What is music?
