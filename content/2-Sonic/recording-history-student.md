@@ -26,6 +26,8 @@ published: true
 2. **Introduction to StoryCorps**
 
    * Watch a video about the meaning and purpose of the StoryCorps platform. Learn how it preserves stories and builds connections between people.
+
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/KGCD1XR0WPk?si=dsX-KBM1LVdYkScg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    * Research 3 stories on the StoryCorps platform that resonate with you. Write a brief reflection about how and why you connected with those stories.
 3. **Choose Your Subject**
 
