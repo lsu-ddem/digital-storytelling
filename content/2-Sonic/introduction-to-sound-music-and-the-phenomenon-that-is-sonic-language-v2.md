@@ -17,20 +17,20 @@ By the end of the lesson, students will have an in depth understanding of the pr
 
 This lesson introduces students to the importance of Sound in storytelling. This introduction serves as the unit kickoff for sound viewing storytelling from that lens.
 
-### Expected Lesson Duration: 
+### Expected Lesson Duration:
 
 Lesson is expected to last 1 day.
 
 #### Interdisciplinary Connection(s) to Common Core
 
--  <a href = "http://www.corestandards.org/ELA-Literacy/W/9-10/3/c/" target="_blank">CCSS.ELA-LITERACY.W.9-10.3.C</a>
+* <a href = "http://www.corestandards.org/ELA-Literacy/W/9-10/3/c/" target="_blank">CCSS.ELA-LITERACY.W.9-10.3.C</a>
 
 ### Preparing to Teach this Lesson:
 
 * Radiolab's [podcast on Musical Language](http://www.radiolab.org/story/91512-musical-language/) that can be presented to the class in podcast form or transcribed into the instructor's lecture.
 
+  <iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnycstudios/#file=/audio/json/91512/&share=1"></iframe>
 * [Information on Cornell Notes](https://drive.google.com/open?id=0B-fnzlPK8lcvT1BuSXBaVzlZQTg) handouts that should be used in the lecture prior to students utilizing the handouts.
-
 * *[Psyche and Soun*d](https://drive.google.com/open?id=0B-fnzlPK8lcvSmN0OVV3ZW84a28) Podcast that students will take notes on.
 
 ### Student Handouts:
@@ -39,89 +39,47 @@ Lesson is expected to last 1 day.
 
 ### Lesson Procedure:
 
-####  Introduction/Gain Attention
+#### Introduction/Gain Attention
 
--  **Sound of the Day**: The class will begin with an activity that will require students to write a brief story about the content or relation of a sound presented by the instructor.
+* **Sound of the Day**: The class will begin with an activity that will require students to write a brief story about the content or relation of a sound presented by the instructor.
 
-####  Project
+#### Project
 
--   After the sound of the day, the students will listen to the radiolab podcast entitled *[Psyche and Soun*d](https://drive.google.com/open?id=0B-fnzlPK8lcvSmN0OVV3ZW84a28) 
+* After the sound of the day, the students will listen to the radiolab podcast entitled *[Psyche and Soun*d](https://drive.google.com/open?id=0B-fnzlPK8lcvSmN0OVV3ZW84a28) 
+* While listening to the podcast, the students will not be allowed to touch any electronic devices.
+* Notes and questions should be taken on the [Cornell Notes Handout ](https://drive.google.com/open?id=1Kyf1MC4igp7Lp1TiMAbRyUKmHjOvdiLVtugP91m6Gf0)
+* The Handouts, and their purpose should be explained prior to the start of the podcast    
+* Some questions that the students should add to their questions:
 
-    
-
--   While listening to the podcast, the students will not be allowed to touch any electronic devices.
-
--    Notes and questions should be taken on the [Cornell Notes Handout ](https://drive.google.com/open?id=1Kyf1MC4igp7Lp1TiMAbRyUKmHjOvdiLVtugP91m6Gf0)
-
-    
-
--   The Handouts, and their purpose should be explained prior to the start of the podcast    
-
--   Some questions that the students should add to their questions:
-
-    
-
-	-   What is music?
-
-    
-
-	-   Why does it move us?
-
-    
-
-	-   How does the brain process sound, and why are some people better at it than others?
-
-	
+  * What is music?
+  * Why does it move us?
+  * How does the brain process sound, and why are some people better at it than others?
 
 ### Outcomes
 
 * Development of notetaking skills
-
-    
-
 * Explain how listening affects individuals physiologically
-
-    
-
 * Identify and exercise good listening skills
-
-    
-
 * Gain an understanding of how sound works scientifically
-
-    
-
 * Demonstrate an understanding of how sound affects us physiologically
-
-    
-
 * Contemplate how sound can be manipulated and purposefully used to generate specific desired effects on listeners
 
 ### Content of Lesson
 
 * Acquiring Key Concepts: developing an understanding of the role sound plays in storytelling, questioning the origin of sound and music, and the effect sound and music has on storylines, individuals, and themselves. Additionally, taking notes to the Cornell standard.
-
 * Engaging in Experiential Learning: practicing new note taking methods via the Cornell standard of note taking, listening to sounds in a new way by paying attention to characteristics emphasized in the *Psyche and Sound* and *Musical Language* podcasts.
-
 * Building Proficiencies: establishing a new skill set for listening to sounds, taking more proficient notes. 
-
 * Connecting with STEM Professionals: view a video or listen to a podcast of a professional explaining the importance  of the roles sound plays in storytelling.
-
 * Assessing Learning: have students provide unique answers to the questions posed during note taking, such as what is music, and why does it move us?
 
-### Closure and Review 
+### Closure and Review
 
 * Sound and math have a lot in common, bring back some examples of those commonalities the next day.
-
-    
-
 * Explain the importance of diversity or individuality in the storytellers and writers due to experiences and how it shapes our stories. 
 
 ## Higher Level Thinking Skills Noted
 
 * Answer the essential questions thoroughly and describe how those aspects show up in the media.  
-
-    
 
 ## Relevance/Rationale:
 
@@ -137,13 +95,11 @@ Content knowledge, student knowledge, and appropriate resources are aligned to i
 
 Students will have successfully met the outcomes when fundamental questions about the importance of storytelling and its role in imagery can be observed through their writing and reflections of their peers work. Also questions about their current disposition are taken into consideration when they see media should begin to arise. Also a fluid and respectful use of time, along with an essay that is fluid, easy to follow, and retains its essentials as an ELA.
 
-  
-
 ## Modifications/Accommodations and Access for All:
 
 A simpler version of Imagery and storytelling is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, alterations will be easily made.
 
-## Implementation Feedback: 
+## Implementation Feedback:
 
 Students can receive feedback on their implementation of the Cornell Notes.
 
@@ -155,5 +111,4 @@ To be completed upon the end of lesson.
 
 ### Best Practices:
 
-#### Exemplary Previous student work: 
-
+#### Exemplary Previous student work:
