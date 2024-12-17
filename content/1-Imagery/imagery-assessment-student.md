@@ -9,6 +9,10 @@ published: true
 ---
 # Lesson
 
+![](/images/uploads/tape-1458416_640.png)
+
+Image by <a href="https://pixabay.com/users/angeling11-1598567/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1458416">Angel Navarro</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1458416">Pixabay</a>
+
 <!--StartFragment-->
 
 **What You’ll Learn** In this lesson, you will use the skills you’ve developed throughout the imagery unit to create a comic strip. You’ll learn to combine visual storytelling techniques with composition, diversity, and personal creativity to craft an engaging story about an important topic. By collaborating with classmates and engaging in peer review, you will refine your work and deepen your understanding of storytelling.
