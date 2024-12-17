@@ -7,7 +7,7 @@ weight: 7
 source-id: 1CgvoWnxrWaJJTtllw8AuWKfpetYSIxdG3HEqruB7dn8
 published: true
 ---
-# Lesson 
+# Lesson
 
 ## Objective(s):
 
@@ -17,136 +17,75 @@ Students will learn the skills of a good listener. How to take those listening s
 
 This lesson encourages the students to take an active role in their communities and in their families. The lesson also begins to transition the learning and interactions from a purely internally focused (physical class and school) to a learning environment that is all inclusive (communities and realms in which the students reside).
 
-### Expected Lesson Duration: 
+### Expected Lesson Duration:
 
 Lesson is expected to last 1 day.
 
 #### Interdisciplinary Connection(s) to Common Core
 
--  <a href = "http://www.corestandards.org/ELA-Literacy/SL/9-10/1/" target="_blank">CCSS.ELA-LITERACY.SL.9-10.1</a>
-
+* <a href = "http://www.corestandards.org/ELA-Literacy/SL/9-10/1/" target="_blank">CCSS.ELA-LITERACY.SL.9-10.1</a>
 
 ### Preparing to Teach this Lesson:
 
-- [Video about the meaning and purpose of StoryCorps](https://youtu.be/KGCD1XR0WPk) that students can watch to learn the significance of the StoryCorps platform.
+* [Video about the meaning and purpose of StoryCorps](https://youtu.be/KGCD1XR0WPk) that students can watch to learn the significance of the StoryCorps platform.
+* [Extra Guiding/Starter Questions for Interviews](https://docs.google.com/document/d/1jMcyQth9pD17s6nKkgQJIxs1My7M9GnDOtftTZZ0eKs/edit#heading=h.rw8o65icddij)
+* StoryCorps Resources:
 
-- [Extra Guiding/Starter Questions for Interviews](https://docs.google.com/document/d/1jMcyQth9pD17s6nKkgQJIxs1My7M9GnDOtftTZZ0eKs/edit#heading=h.rw8o65icddij)
-
-- StoryCorps Resources:
-
-- [StoryCorps : 5 Steps to Recording Your StoryCorps App Interview](https://drive.google.com/file/d/13LYGB400DbW6V-uHyFy4qsp8Kis5jvTdS0Hd3bPfZM4ifAkc4wEGqMGMLNXC6j2d_O6UUnsxJCqE--wv/view) 
-
-- [StoryCorps : Strategies for Groups and Organizations ](https://drive.google.com/file/d/1uIEUafkr8_tnfSXX_kTy963XtpsybmjCLguriQbvO60w6rpS8EGZfbSoZBcqlKQfGLEPhHPKuVITAQO1/view)
-
-- [StoryCorps : 10 Conversation Tips for Your StoryCorps App Interview ](https://drive.google.com/file/d/1DjMHhobxyOzKLhKdaZlEaqWlaISQNz_t30xXWedqZQ5TWcvMwANrdioBM8ljvHTnotOC2pn4eMvwuKAK/view)
+  * [StoryCorps : 5 Steps to Recording Your StoryCorps App Interview](https://drive.google.com/file/d/13LYGB400DbW6V-uHyFy4qsp8Kis5jvTdS0Hd3bPfZM4ifAkc4wEGqMGMLNXC6j2d_O6UUnsxJCqE--wv/view) 
+  * [StoryCorps : Strategies for Groups and Organizations ](https://drive.google.com/file/d/1uIEUafkr8_tnfSXX_kTy963XtpsybmjCLguriQbvO60w6rpS8EGZfbSoZBcqlKQfGLEPhHPKuVITAQO1/view)
+  * [StoryCorps : 10 Conversation Tips for Your StoryCorps App Interview ](https://drive.google.com/file/d/1DjMHhobxyOzKLhKdaZlEaqWlaISQNz_t30xXWedqZQ5TWcvMwANrdioBM8ljvHTnotOC2pn4eMvwuKAK/view)
 
 ### Student Handouts:
 
-- Students should be directed to the resources provided in the lesson prep section.
+* Students should be directed to the resources provided in the lesson prep section.
 
 ### Lesson Procedure:
 
 #### Introduction/Gain Attention
 
--  **Sound of the Day**: The class will begin with an activity that will require students to write a brief story about the content or relation of a sound presented by the instructor.
+* **Sound of the Day**: The class will begin with an activity that will require students to write a brief story about the content or relation of a sound presented by the instructor.
 
 #### Project
 
--   The students will be producing stories that will be listed in the storycorps national archive.
+* The students will be producing stories that will be listed in the storycorps national archive.
+* Prior to starting the archival process the students will begin with research and [significance of the StoryCorps platform](https://youtu.be/KGCD1XR0WPk).
+* After the students have researched the platform each student must find 3 stories in which they can relate to and define how they related to them. The types of questions that asked to get stories that they used to retrieve a story that is worthwhile.
+* The students will select a subject outside of the school, within their community to interview.
+* After the students have a subject in mind the students will begin to develop an interview process utilizing:
 
-    
-
--   Prior to starting the archival process the students will begin with research and [significance of the StoryCorps platform](https://youtu.be/KGCD1XR0WPk).
-
-    
-
--   After the students have researched the platform each student must find 3 stories in which they can relate to and define how they related to them. The types of questions that asked to get stories that they used to retrieve a story that is worthwhile.
-
-    
-
--   The students will select a subject outside of the school, within their community to interview.
-
-    
-
--   After the students have a subject in mind the students will begin to develop an interview process utilizing:
-
-    
-
-	-   [StoryCorps 1](https://drive.google.com/file/d/13LYGB400DbW6V-uHyFy4qsp8Kis5jvTdS0Hd3bPfZM4ifAkc4wEGqMGMLNXC6j2d_O6UUnsxJCqE--wv/view?usp=sharing)
-
-    
-
-	-   [StoryCorps 2](https://drive.google.com/open?id=1uIEUafkr8_tnfSXX_kTy963XtpsybmjCLguriQbvO60w6rpS8EGZfbSoZBcqlKQfGLEPhHPKuVITAQO1)
-
-    
-
-	-   [StoryCorps 3](https://drive.google.com/open?id=1DjMHhobxyOzKLhKdaZlEaqWlaISQNz_t30xXWedqZQ5TWcvMwANrdioBM8ljvHTnotOC2pn4eMvwuKAK)
-
-    
-
-	-   And [great starter questions](https://drive.google.com/open?id=1jMcyQth9pD17s6nKkgQJIxs1My7M9GnDOtftTZZ0eKs)
-
-    
-
--   After the students have completed their scripts the students will have to do a reading and time their scripts prior to the actual implementation/recording of their radio shows.
+  * [StoryCorps 1](https://drive.google.com/file/d/13LYGB400DbW6V-uHyFy4qsp8Kis5jvTdS0Hd3bPfZM4ifAkc4wEGqMGMLNXC6j2d_O6UUnsxJCqE--wv/view?usp=sharing)
+  * [StoryCorps 2](https://drive.google.com/open?id=1uIEUafkr8_tnfSXX_kTy963XtpsybmjCLguriQbvO60w6rpS8EGZfbSoZBcqlKQfGLEPhHPKuVITAQO1)
+  * [StoryCorps 3](https://drive.google.com/open?id=1DjMHhobxyOzKLhKdaZlEaqWlaISQNz_t30xXWedqZQ5TWcvMwANrdioBM8ljvHTnotOC2pn4eMvwuKAK)
+  * And [great starter questions](https://drive.google.com/open?id=1jMcyQth9pD17s6nKkgQJIxs1My7M9GnDOtftTZZ0eKs)
+* After the students have completed their scripts the students will have to do a reading and time their scripts prior to the actual implementation/recording of their radio shows.
 
 ### Outcomes:
 
 * Understanding of the StoryCorps mission and purpose
-
-    
-
 * Demonstrate effective implementation of skills obtained from Digital Storytelling class in real world situations (e.g. utilizing active, good listening skills and StoryCorp interviewing skills during interviews with members of the community)
-
-    
-
 * Strengthen and exercise creativity during the development/selection of the interview topic
-
-    
-
 * Increase presence and awareness in the community, including the people and issues within it
-
-    
-
 * Formulating interview topics and effective, unbiased interview questions
-
-    
-
 * Ability to conduct professional, effective interviews
-
-    
-
 * Ability to incorporate, compile, and analyze several interviews into one final product
-
-    
-
 * Utilize and strengthen Audacity skills
-
- 
 
 ### Content of Lesson
 
 * **Acquiring Key Concepts:** gaining the skills of a "good listener" by covering strategies and practices to be used when listening to audio, conversations, etc. Implementing skills gained to complete an independent project, such as the StoryCorps submission. Becoming familiar with creating and deploying the interview process. Interacting and getting involved within the students' communities. 
-
 * **Engaging in Experiential Learning**: creating and developing a submission for StoryCorps's national archive by implementing newly gained skills regarding in depth listening and interview techniques to address a subject relevant within the community.
-
 * **Building Proficiencies:** practicing recently acquired in-depth listening skills by interviewing members of the community, recording interviews, analyzing responses, responding to interviews, and developing the complete story utilizing multiple audio recordings.
-
 * **Connecting with STEM Professionals**: view a video or listen to a few StoryCorps stories, or interviews with the founders or workers at StoryCorps
-
 * **Assessing Learning:** have students justify their selected subject/interview topic and explain why it is pertinent. Ask students what they have gained from their conducted interviews and from the interview process as a whole.
 
-### Closure and Review   
+### Closure and Review
 
 * Expectations of projects and their due date.
-
-    
-
 * Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
 
-## Higher Level Thinking Skills Noted    
+## Higher Level Thinking Skills Noted
 
--   Answer the essential questions thoroughly and discuss.
+* Answer the essential questions thoroughly and discuss.
 
 ## Relevance/Rationale:
 
@@ -178,5 +117,4 @@ To be completed upon the end of lesson.
 
 ### Best Practices:
 
-#### Exemplary Previous student work: 
-
+#### Exemplary Previous student work:
