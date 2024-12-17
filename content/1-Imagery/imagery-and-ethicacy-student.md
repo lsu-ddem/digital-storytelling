@@ -11,6 +11,10 @@ published: true
 
 <!--StartFragment-->
 
+![](/images/uploads/head-4041585_640.png)
+
+Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4041585">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4041585">Pixabay</a>
+
 **What You’ll Learn** In this lesson, you will discover the importance of empathy, efficacy, and responsibility in digital storytelling. You will explore how ethical practices shape content creation and learn to evaluate and provide constructive feedback through peer review. By engaging in thoughtful discussions and projects, you will reflect on the balance between creativity, truth, and respect in media.
 
 **What to Expect**
