@@ -31,12 +31,14 @@ Lesson is expected to last 2 days.
 Videos to be Shown as Silent Films:
 
 * 1: [The Lion's Cage ](https://www.youtube.com/watch?v=mpjEyBKSfJQ&feature=youtu.be)
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_0a998z_G4g?si=JsS59tcIWyHsG-0K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 * 2:[ Life](https://www.youtube.com/watch?v=mWZ6b_I-Djg&feature=youtu.be)
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/mWZ6b_I-Djg?si=dg1s5eMlyUI_kFkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 * 3: ﻿L﻿e Roman de Max (1912)
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/5OW72C8XjNo?si=ISctH_ZMBFRGFtiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 
 Storyboard Resources
 
