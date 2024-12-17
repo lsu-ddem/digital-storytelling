@@ -12,6 +12,10 @@ published: true
 
 <!--StartFragment-->
 
+![](/images/uploads/sound-1781569_640.png)
+
+Image by <a href="https://pixabay.com/users/gdj-1086657/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1781569">Gordon Johnson</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1781569">Pixabay</a>
+
 **What You’ll Learn** In this lesson, you will explore the role of sound in storytelling. You will learn how to listen attentively, take effective notes, and analyze how sound influences emotions and storytelling. This lesson will kick off your journey into understanding sound as a critical element of narrative creation.
 
 **What to Expect**
@@ -27,8 +31,6 @@ published: true
 2. **Listen and Learn**
 
    * Listen to the Radiolab podcast, *Psyche and Sound*, without any distractions. Electronic devices are not allowed during this activity to help you focus fully on the sound.
-
-     <iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnycstudios/#file=/audio/json/91512/&share=1"></iframe>
    * Use the [Cornell Notes Handout](https://drive.google.com/open?id=1Kyf1MC4igp7Lp1TiMAbRyUKmHjOvdiLVtugP91m6Gf0) to take detailed notes during the podcast. Some questions to consider while listening include:
 
      * What is music?
