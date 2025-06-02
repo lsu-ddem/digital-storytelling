@@ -9,6 +9,12 @@ published: true
 ---
 <!--StartFragment-->
 
+<!--StartFragment-->
+
+![Free Editing Video photo and picture](https://cdn.pixabay.com/photo/2022/07/13/21/57/editing-7320125_1280.jpg)
+
+<!--EndFragment-->
+
 **Reading Lips**
 
 **What You’ll Learn**\
@@ -27,7 +33,7 @@ In this lesson, you’ll learn how to take an existing video and rewrite its sto
    * Write a short story based on what you *don’t* see—what could be happening just outside the frame?
 2. **Watch and Analyze**
 
-   * Watch short clips from **Video 1**, **Video 2**, **Video 3**, and **Video 4**.
+   * Watch short clips from **[Video 1](https://www.youtube.com/watch?v=BVQSr8NpjrU)**, **[Video 2](https://www.youtube.com/watch?v=v75wCTMZoSY)**, **[Video 3](https://www.youtube.com/watch?v=RySHDUU2juM)**, and **[Video 4](https://www.youtube.com/watch?v=YtIPmVN6zdc)**.
    * As you watch, take notes on:
 
      * The setting and scenery
