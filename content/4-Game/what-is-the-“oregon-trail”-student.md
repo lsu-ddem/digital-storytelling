@@ -9,6 +9,10 @@ published: true
 ---
 <!--StartFragment-->
 
+![Free illustration videogame graphics vector](https://cdn.pixabay.com/photo/2016/10/13/00/22/illustration-1736462_1280.png)
+
+<!--EndFragment--><!--StartFragment-->
+
 **Interactive Narrative: Twine Game Project**
 
 **What You’ll Learn** In this lesson, you'll explore the creative world of interactive storytelling by playing a branching-path game and building your own. You'll learn to think like both a writer and a game designer, using logic, creativity, and digital tools to create a dynamic story that responds to player choices.
